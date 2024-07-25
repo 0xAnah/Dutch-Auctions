@@ -1,5 +1,5 @@
 # Dutch Auction Smart Contract
-This repository contains a smart contract implementation of a Dutch auction on the Ethereum blockchain. In a Dutch auction, the auctioneer begins with a high asking price, which is lowered until a participant is willing to accept the auctioneer's price, or a predetermined reserve price is reached.
+This repository contains a smart contract implementation of a NFT Dutch auction. In a Dutch auction, the auctioneer begins with a high asking price, which is lowered until a participant is willing to accept the auctioneer's price, or a predetermined reserve price is reached.
 
 ## Features
 **Automated price decrement**: The contract decreases the price at regular intervals until it reaches the reserve price or a bid is made.
